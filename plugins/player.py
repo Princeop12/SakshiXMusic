@@ -1,4 +1,4 @@
-# Mʀ Nɪᴛʀɪᴄ // @MrNitric
+# Mʀ Pɾιɳƈҽ // @rockstar_prince_op
 
 import os
 import aiofiles
