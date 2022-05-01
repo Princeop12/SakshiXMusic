@@ -43,9 +43,9 @@ async def start_(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "✨ᴏᴡɴᴇʀ✨", url=f"https://t.me/Rockstar_prince_op"),
+                        "✨ᴏᴡɴᴇʀ✨", url=f"https://t.me/Rockstar_prince_oP"),
                   ],[
-                      InlineKeyboardButton("🔥ʙᴀᴅɴᴀᴍ💥", url=f"https://t.me/its_brutal_xd")
+                      InlineKeyboardButton("➕ ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url=f"https://t.me/TgVcPlayerBot?startgroup=true")
                 ]
                 
            ]
