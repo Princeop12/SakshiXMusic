@@ -33,7 +33,7 @@ async def _human_time_duration(seconds):
 @Client.on_message(command("start") & filters.private & ~filters.edited)
 async def start_(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/39e3f1b21cbfa8508a6db.jpg",
+        photo=f"https://telegra.ph/file/48f5cb58062d8c576961a.jpg",
         caption=f"""**━━━━━━━━━━━━━━━━━━━━━━━━
 💥 ʜᴇʟʟᴏ, ɪ ᴀᴍ ꜰᴀꜱᴛᴇʀ ᴠᴄ  ᴘʟᴀʏᴇʀ
 ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ...
@@ -43,49 +43,26 @@ async def start_(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🌸 ᴏᴡɴᴇʀ 🌸", url="https://t.me/ROCKSTAR_PRINCE_OP")
+                        "✨ᴏᴡɴᴇʀ✨", url=f"https://t.me/Rockstar_prince_op"),
                   ],[
-                    InlineKeyboardButton(
-                        "💡 ᴜᴘᴅᴀᴛᴇs", url="https://t.me/Sanki_BOTs"
-                    ),
-                    InlineKeyboardButton(
-                        "ʀᴇᴘᴏ 🎈", url="https://github.com/TheFelliX/SakshiXMusic"
-                    )
-                ],[ 
-                    InlineKeyboardButton(
-                        "⁉️ ʜᴇʟᴘ ‼️", url="https://telegra.ph/R%E1%B4%87%E1%B4%85-L%C9%AA%C9%A2%CA%9C%E1%B4%9B-M%E1%B4%9Cs%C9%AA%E1%B4%84-S%E1%B4%87%CA%80%E1%B4%A0%E1%B4%87%CA%80-04-12"
-                    )]
-            ]
+                      InlineKeyboardButton("🔥ʙᴀᴅɴᴀᴍ💥", url=f"https://t.me/its_brutal_xd")
+                ]
+                
+           ]
         ),
     )
     
     
-@Client.on_message(commandpro(["/start", "/alive", "aditya"]) & filters.group & ~filters.edited)
+@Client.on_message(commandpro(["/start", "/alive", "venom"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/39e3f1b21cbfa8508a6db.jpg",
-        caption=f"""𝑺𝒂𝒌𝒔𝒉𝒊 𝑿 𝑴𝒖𝒔𝒊𝒄 𝑰𝒔 𝑨𝒍𝒊𝒗𝒆 𝑩𝒂𝒃𝒚...""",
+        photo=f"https://telegra.ph/file/48f5cb58062d8c576961a.jpg",
+        caption=f"""""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "💡 ᴜᴘᴅᴀᴛᴇs", url="https://t.me/Sanki_BOTs")
-                ]
-            ]
-        )
-   )
-
-
-@Client.on_message(commandpro(["repo", "#repo", "@repo", "/repo", "source"]) & filters.group & ~filters.edited)
-async def help(client: Client, message: Message):
-    await message.reply_photo(
-        photo=f"https://telegra.ph/file/39e3f1b21cbfa8508a6db.jpg",
-        caption=f"""𝑺𝒂𝒌𝒉𝒔𝒊 𝑿 𝑴𝒖𝒔𝒊𝒄 𝑴𝒆𝒏𝒖 𝑹𝒆𝒑𝒐 👅""",
-        reply_markup=InlineKeyboardMarkup(
-            [
-                [
-                    InlineKeyboardButton(
-                        "❥︎ ᴄʟɪᴄᴋ ᴍᴇ ᴛᴏ ɢᴇᴛ ʀᴇᴘᴏ ❥︎", url=f"https://t.me/MrNitric")
+                        "💥 xᴅ_ʙʀᴏᴛʜᴇʀ 💞", url=f"https://t.me/XD_BROTHERS")
                 ]
             ]
         ),
