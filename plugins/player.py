@@ -166,9 +166,9 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="💡 ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/Sanki_BOTs"
+                        text="💡 ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/ROCKSTAR_PRINCE_OP"
                     ),
-                    InlineKeyboardButton(text="ᴏᴡɴᴇʀ 🌸", url=f"https://t.me/ROCKSTAR_PRINCE_OP"),
+                    InlineKeyboardButton(text="✨ᴏᴡɴᴇʀ✨", url=f"https://t.me/ROCKSTAR_PRINCE_OP"),
                 ]
             ]
         )
@@ -205,7 +205,7 @@ async def play(_, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="💡 ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/Sanki_BOTs"
+                            text="💡 ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/ROCKSTAR_PRINCE_OP"
                         ),
                         InlineKeyboardButton(
                             text="✨ᴏᴡɴᴇʀ✨", url=f"https://t.me/ROCKSTAR_PRINCE_OP"
@@ -223,7 +223,7 @@ async def play(_, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="💡 ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/Sanki_BOTs"
+                            text="💡 ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/ROCKSTAR_PRINCE_OP"
                         ),
                         InlineKeyboardButton(
                             text="✨ᴏᴡɴᴇʀ✨", url=f"https://t.me/ROCKSTAR_PRINCE_OP"
