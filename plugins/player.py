@@ -208,7 +208,7 @@ async def play(_, message: Message):
                             text="💡 ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/Sanki_BOTs"
                         ),
                         InlineKeyboardButton(
-                            text="ᴏᴡɴᴇʀ 🌸", url=f"https://t.me/ROCKSTAR_PRINCE_OP"
+                            text="✨ᴏᴡɴᴇʀ✨", url=f"https://t.me/ROCKSTAR_PRINCE_OP"
                         ),
                     ]
                 ]
@@ -226,7 +226,7 @@ async def play(_, message: Message):
                             text="💡 ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/Sanki_BOTs"
                         ),
                         InlineKeyboardButton(
-                            text="ᴏᴡɴᴇʀ 🌸", url=f"https://t.me/ROCKSTAR_PRINCE_OP"
+                            text="✨ᴏᴡɴᴇʀ✨", url=f"https://t.me/ROCKSTAR_PRINCE_OP"
                         ),
                     ]
                 ]
@@ -381,7 +381,7 @@ async def skip(_, message: Message):
 
 
     await message.reply_photo(
-                             photo="https://telegra.ph/file/2c149c454cfe0eb1ace82.jpg", 
+                             photo="https://telegra.ph/file/364de644a03fb7ae76757.jpg", 
                              caption=f'**💥 𝑺𝑲𝑰𝑷𝑷𝑬𝑫...**'
    ) 
 
