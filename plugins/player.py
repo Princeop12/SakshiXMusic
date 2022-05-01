@@ -282,7 +282,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton(
                         text="💡 ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/Sanki_BOTs"
                     ),
-                    InlineKeyboardButton(text="ᴏᴡɴᴇʀ 🌸", url=f"https://t.me/ROCKSTAR_PRINCE_OP"),
+                    InlineKeyboardButton(text="✨ᴏᴡɴᴇʀ✨", url=f"https://t.me/ROCKSTAR_PRINCE_OP"),
                 ]
             ]
         )
@@ -397,7 +397,7 @@ async def stop(_, message: Message):
 
     await clientbot.pytgcalls.leave_group_call(message.chat.id)
     await message.reply_photo(
-                             photo="https://telegra.ph/file/0d60f312de10da7bfa42c.jpg", 
+                             photo="https://telegra.ph/file/d1476f3cda54a9563eb7a.jpg", 
                              caption="**💥 𝑺𝑻𝑶𝑷𝑷𝑬𝑫...**"
     )
 
