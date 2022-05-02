@@ -1,4 +1,4 @@
-<h1 align="center"><b>Sakshi X Music TeleGram Music Streamer</b></h1>
+<h1 align="center"><b>broken X Music TeleGram Music Streamer</b></h1>
 
 # <p align="center"><a href="https://github.com/TheFelliX/ShakshiXMusic"><img src="https://github-readme-stats.vercel.app/api/pin?username=TheFelliX&show_icons=true&theme=dracula&hide_border=true&repo=ShakshiXMusic"></a></p>
 <p align="center">
@@ -32,7 +32,7 @@
   
 
   
-# Sakshi X Music
+# broken00 X Music
 Give us a star and fork our repo
   
   
