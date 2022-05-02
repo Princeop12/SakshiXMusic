@@ -166,11 +166,12 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="✨ᴏᴡɴᴇʀ✨", url=f"https://t.me/ROCKSTAR_PRINCE_OP"
-                  ),
-              ]  
-          ]
-      )
+                        text="💡 ʙᴀᴅɴᴀᴍ", url=f"https://t.me/Its_Brutal_xD"
+                    ),
+                    InlineKeyboardButton(text="ᴏᴡɴᴇʀ 🌸", url=f"https://t.me/ROCKSTAR_PRINCE_OP"),
+                ]
+            ]
+        )
 
         requested_by = message.from_user.first_name
         await generate_cover(requested_by, title, views, duration, thumbnail)
@@ -204,7 +205,10 @@ async def play(_, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="✨ᴏᴡɴᴇʀ✨", url=f"https://t.me/ROCKSTAR_PRINCE_OP"
+                            text="💡 ʙᴀᴅɴᴀᴍ", url=f"https://t.me/Its_Brutal_xD"
+                        ),
+                        InlineKeyboardButton(
+                            text="ᴏᴡɴᴇʀ 🌸", url=f"https://t.me/ROCKSTAR_PRINCE_OP"
                         ),
                     ]
                 ]
@@ -219,7 +223,10 @@ async def play(_, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="✨ᴏᴡɴᴇʀ✨", url=f"https://t.me/ROCKSTAR_PRINCE_OP"
+                            text="💡 ʙᴀᴅɴᴀᴍ", url=f"https://t.me/Its_Brutal_xD"
+                        ),
+                        InlineKeyboardButton(
+                            text="ᴏᴡɴᴇʀ 🌸", url=f"https://t.me/ROCKSTAR_PRINCE_OP"
                         ),
                     ]
                 ]
@@ -273,7 +280,9 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="✨ᴏᴡɴᴇʀ✨", url=f"https://t.me/ROCKSTAR_PRINCE_OP"
+                        text="💡 ʙᴀᴅɴᴀᴍ", url=f"https://t.me/Its_Brutal_xD"
+                    ),
+                    InlineKeyboardButton(text="ᴏᴡɴᴇʀ 🌸", url=f"https://t.me/ROCKSTAR_PRINCE_OP"),
                 ]
             ]
         )
