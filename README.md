@@ -23,7 +23,8 @@
   
   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Princeop12/SakshiXMusic)
   
-  
+  [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/h7fIbb?referralCode=9CKprJ)
+
 ###  Okteto Deployment
 
 <h4>Click the button below to deploy on Okteto!</h4>
