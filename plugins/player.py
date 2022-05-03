@@ -166,7 +166,7 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="💡 ʙᴀᴅɴᴀᴍ", url=f"https://t.me/Its_Brutal_xD"
+                        text="💡 ᴘʀɪɴᴄᴇ ᴏᴘ", url=f"https://t.me/Its_IZ_Princy_xD"
                     ),
                     InlineKeyboardButton(text="✨ᴏᴡɴᴇʀ✨", url=f"https://t.me/ROCKSTAR_PRINCE_OP"),
                 ]
