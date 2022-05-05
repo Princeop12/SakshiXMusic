@@ -168,7 +168,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton(
                         text="✨ᴏᴡɴᴇʀ✨", url=f"https://t.me/ROCKSTAR_PRINCE_OP"
                     ),
-                    InlineKeyboardButton(text="➕ ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url=f"https://t.me/PRINCE_SONG_OP_BOT?startgroup=true"),
+                    InlineKeyboardButton(text="➕ ᴀᴅᴅ ᴛᴏ ➕", url=f"https://t.me/PRINCE_SONG_OP_BOT?startgroup=true"),
                 ]
             ]
         )
@@ -208,7 +208,7 @@ async def play(_, message: Message):
                             text="✨ᴏᴡɴᴇʀ✨", url=f"https://t.me/ROCKSTAR_PRINCE_OP"
                         ),
                         InlineKeyboardButton(
-                            text="➕ ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url=f"https://t.me/PRINCE_SONG_OP_BOT?startgroup=true"
+                            text="➕ ᴀᴅᴅ ᴛᴏ ➕", url=f"https://t.me/PRINCE_SONG_OP_BOT?startgroup=true"
                         ),
                     ]
                 ]
@@ -226,7 +226,7 @@ async def play(_, message: Message):
                             text="✨ᴏᴡɴᴇʀ✨", url=f"https://t.me/ROCKSTAR_PRINCE_OP"
                         ),
                         InlineKeyboardButton(
-                            text="➕ ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url=f"https://t.me/PRINCE_SONG_OP_BOT?startgroup=true"
+                            text="➕ ᴀᴅᴅ ᴛᴏ ➕", url=f"https://t.me/PRINCE_SONG_OP_BOT?startgroup=true"
                         ),
                     ]
                 ]
@@ -282,7 +282,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton(
                         text="✨ᴏᴡɴᴇʀ✨", url=f"https://t.me/ROCKSTAR_PRINCE_OP"
                     ),
-                    InlineKeyboardButton(text="➕ ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url=f"https://t.me/PRINCE_SONG_OP_BOT?startgroup=true"),
+                    InlineKeyboardButton(text="➕ ᴀᴅᴅ ᴛᴏ ➕", url=f"https://t.me/PRINCE_SONG_OP_BOT?startgroup=true"),
                 ]
             ]
         )
