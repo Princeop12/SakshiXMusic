@@ -166,9 +166,9 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="💡 ᴘʀɪɴᴄᴇ ᴏᴘ", url=f"https://t.me/Its_IZ_Princy_xD"
+                        text="✨ᴏᴡɴᴇʀ✨", url=f"https://t.me/ROCKSTAR_PRINCE_OP"
                     ),
-                    InlineKeyboardButton(text="✨ᴏᴡɴᴇʀ✨", url=f"https://t.me/ROCKSTAR_PRINCE_OP"),
+                    InlineKeyboardButton(text="➕ ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url=f"https://t.me/PRINCE_SONG_OP_BOT?startgroup=true"),
                 ]
             ]
         )
@@ -205,10 +205,10 @@ async def play(_, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="💡 ʙᴀᴅɴᴀᴍ", url=f"https://t.me/Its_Brutal_xD"
+                            text="✨ᴏᴡɴᴇʀ✨", url=f"https://t.me/ROCKSTAR_PRINCE_OP"
                         ),
                         InlineKeyboardButton(
-                            text="✨ᴏᴡɴᴇʀ✨", url=f"https://t.me/ROCKSTAR_PRINCE_OP"
+                            text="➕ ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url=f"https://t.me/PRINCE_SONG_OP_BOT?startgroup=true"
                         ),
                     ]
                 ]
@@ -223,10 +223,10 @@ async def play(_, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="💡 ʙᴀᴅɴᴀᴍ", url=f"https://t.me/Its_Brutal_xD"
+                            text="✨ᴏᴡɴᴇʀ✨", url=f"https://t.me/ROCKSTAR_PRINCE_OP"
                         ),
                         InlineKeyboardButton(
-                            text="✨ᴏᴡɴᴇʀ✨", url=f"https://t.me/ROCKSTAR_PRINCE_OP"
+                            text="➕ ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url=f"https://t.me/PRINCE_SONG_OP_BOT?startgroup=true"
                         ),
                     ]
                 ]
@@ -280,9 +280,9 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="💡 ʙᴀᴅɴᴀᴍ", url=f"https://t.me/Its_Brutal_xD"
+                        text="✨ᴏᴡɴᴇʀ✨", url=f"https://t.me/ROCKSTAR_PRINCE_OP"
                     ),
-                    InlineKeyboardButton(text="✨ᴏᴡɴᴇʀ✨", url=f"https://t.me/ROCKSTAR_PRINCE_OP"),
+                    InlineKeyboardButton(text="➕ ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url=f"https://t.me/PRINCE_SONG_OP_BOT?startgroup=true"),
                 ]
             ]
         )
